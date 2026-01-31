@@ -1,43 +1,13 @@
-<p align="center">
-  <img alt="Engineering Clinics Project Banner" src="https://img.icons8.com/external-flat-icons-inmotus-design/452/external-innovation-innovation-flat-icons-inmotus-design.png" width="120" />
-  <br/><br/>
-  <b><a href="https://mohit-rana-mk.github.io/engineering-clinics-project/">https://mohit-rana-mk.github.io/engineering-clinics-project/</a></b>
-  <br/><br/>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&labelColor=black&logo=github" />
-  <a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
-  <br/>
-  <a href="https://github.com/Mohit-Rana-Mk/engineering-clinics-project/blob/main/LICENSE">
-    <img alt="GitHub License MIT" src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge&labelColor=black&logo=github">
-  </a>
-  <br/><br/>
-  This project is developed as part of the <strong>Engineering Clinics</strong> subject by our team.<br/>
-  We aim to build innovative and practical solutions using HTML, CSS, and JavaScript 🚀.
-</p>
+
 
 ---
 
 ## 👨‍💻 Team Members
-- **Mohit Kumar Rana**  
-- **Sanchit Thakur**  
-- **Nidhi Sharma**  
-- **Pooja**
+- **Mohit Heranwal**  
+- **Rahul Yadav**  
+- **Nishita**  
+- **Pawan Yadav**
 
----
-
-## 🌠 Project Overview
-
-This project was created as part of our **Engineering Clinics** coursework.  
-It demonstrates problem-solving through creativity, design, and implementation.  
-Our focus was to create a **user-friendly, interactive, and efficient tool** that applies engineering concepts in real-world contexts.
-
----
-
-## 🤗 Contributing
-
-We welcome suggestions and improvements!  
-Check out the [Contribution Guide](CONTRIBUTING.md) for setup and collaboration instructions.
-
----
 
 ## 📚 Libraries Used
 
@@ -52,11 +22,11 @@ Check out the [Contribution Guide](CONTRIBUTING.md) for setup and collaboration 
 
 If you like our work, you can support or follow us on GitHub 😊  
 
-[<img alt="GitHub" width=200 src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Mohit-Rana-Mk)
+[<img alt="GitHub" width=200 src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/jaatheranwalmohit)
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by Our Engineering Clinics Team</b><br/>
-  <i>© 2025 Mohit Kumar Rana, Sanchit Thakur, Nidhi Sharma, and Pooja</i>
+  <b>Made with ❤️ by Team blockchain</b><br/>
+  <i>© 2025 Mohit Heranwal, Rahul Yadav, Nishita, and Pawan Yadav</i>
 </p>
